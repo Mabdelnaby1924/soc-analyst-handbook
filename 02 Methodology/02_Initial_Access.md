@@ -1,10 +1,11 @@
 ## Brute Force 
 
-![[brute_forcing.png]]
+<img width="1312" height="1199" alt="brute_forcing" src="https://github.com/user-attachments/assets/0fc0f997-5349-4569-a9dd-0c5decfa253e" />
 
 
 ## Phishing Attacks
-![[ChatGPT Image Sep 10, 2026, 05_16_53 AM.png]]
+<img width="1312" height="1199" alt="ChatGPT Image Sep 10, 2026, 05_16_53 AM" src="https://github.com/user-attachments/assets/26deb6c3-6c16-44cc-bb32-506aefac75a5" />
+
 
 
 ## Unauthorized VPN / RDP Access
