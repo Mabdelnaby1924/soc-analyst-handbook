@@ -31,6 +31,11 @@ The **Pyramid of Pain** is a model that shows the **effectiveness of threat dete
 
 # Unified Kill Chain 
 ---
+[The-Unified-Kill-Chain.pdf](https://github.com/user-attachments/files/32711646/The-Unified-Kill-Chain.pdf)
+
+
+<img width="1230" height="794" alt="Pasted image 20250722192706" src="https://github.com/user-attachments/assets/ca3f7233-a68c-4d04-b918-0e5ee3431798" />
+
 
 Phase: **In** (**Initial Foothold**)
 
@@ -38,11 +43,5 @@ Phase: **Through** (**Network Propagation**)
 
 Phase: **Out** (**Action on Objectives**)
 
-
-<img width="1230" height="794" alt="Pasted image 20250722192706" src="https://github.com/user-attachments/assets/ca3f7233-a68c-4d04-b918-0e5ee3431798" />
-
 <img width="1255" height="424" alt="Pasted image 20250723001049" src="https://github.com/user-attachments/assets/3fd531e8-3a18-406f-ac62-65c21b5db960" />
 
-
-
-[The-Unified-Kill-Chain.pdf](https://github.com/user-attachments/files/32711646/The-Unified-Kill-Chain.pdf)
