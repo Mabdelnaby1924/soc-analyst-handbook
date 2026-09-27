@@ -27,8 +27,8 @@ flowchart TD
 
 
 
+<img width="1224" height="1285" alt="Pasted image 20260923150334" src="https://github.com/user-attachments/assets/ed30b9c4-9b6f-4836-ad8b-48e712696fcc" />
 
-![[Pasted image 20260923150334.png]]
 
 
 ```mermaid
