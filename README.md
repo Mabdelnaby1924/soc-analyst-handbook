@@ -5,7 +5,7 @@
 [![Telemetry](https://img.shields.io/badge/Telemetry-Windows%20%7C%20AD%20%7C%20Sysmon%20%7C%20Network-green.svg)](#)
 [![Documentation](https://img.shields.io/badge/Docs-Markdown%20%7C%20Playbooks-informational.svg)](#)
 
-A structured, battle-tested reference guide and investigation methodology tailored for **SOC Analysts (Tier 1/2/3)**, **DFIR Specialists**, **Threat Hunters**, and **Detection Engineers**. 
+A structured, battle-tested reference guide and investigation methodology tailored for **SOC Analysts**, **DFIR Specialists**, **Threat Hunters**, and **Detection Engineers**. 
 
 This repository consolidates event telemetry, protocol behaviors, forensic artifacts, and step-by-step investigation playbooks into an intuitive, quick-reference operational repository.
 
