@@ -1,6 +1,5 @@
 
-
-![[ChatGPT Image Sep 23, 2026, 02_57_16 PM.png]]
+<img width="1224" height="1285" alt="ChatGPT Image Sep 23, 2026, 02_57_16 PM" src="https://github.com/user-attachments/assets/0ae6ff35-8c05-4f8e-a65a-ed8eed5208c5" />
 
 
 ```mermaid
